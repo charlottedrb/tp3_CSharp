@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morpion", "Morpion.csproj", "{75023C2C-0235-43BC-A002-04EF8896FFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75023C2C-0235-43BC-A002-04EF8896FFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75023C2C-0235-43BC-A002-04EF8896FFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75023C2C-0235-43BC-A002-04EF8896FFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75023C2C-0235-43BC-A002-04EF8896FFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA7038D-3CAC-493E-89B6-46529EC505B8}
+	EndGlobalSection
+EndGlobal

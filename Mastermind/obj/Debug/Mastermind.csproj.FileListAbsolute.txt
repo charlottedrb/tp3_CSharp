@@ -1,0 +1,15 @@
+C:\Users\derbaghc\source\repos\TP3\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\derbaghc\source\repos\TP3\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\derbaghc\source\repos\TP3\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\Mastermind.csprojAssemblyReference.cache
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\MainWindow.g.cs
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\App.g.cs
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\Mastermind_MarkupCompile.cache
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\Mastermind_MarkupCompile.lref
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\MainWindow.baml
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\Mastermind.g.resources
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\Mastermind.Properties.Resources.resources
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\Mastermind.csproj.GenerateResource.cache
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\derbaghc\source\repos\TP3\Mastermind\obj\Debug\Mastermind.pdb
